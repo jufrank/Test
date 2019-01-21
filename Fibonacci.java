@@ -3,7 +3,7 @@
 *													Damaris Meier	15-113-665 *
 *																			   *
 *                   	  Programmierung 1 HS 2016                             *
-*                          		Aufgabe 6-1-1                                  *
+*                          		Aufgabe 6-1-1            22                      *
 \* ************************************************************************** */
 
 public class Fibonacci {
@@ -12,7 +12,7 @@ public class Fibonacci {
 		long fib;
 		if (i==0){
 			fib = 0;
-			return fib;
+			return fibbb;
 		}
 		if (i==1){
 			fib = 1;
