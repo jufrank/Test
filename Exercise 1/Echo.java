@@ -20,7 +20,7 @@ public class Echo
       System.out.println ("Enter a line of text:");
 
       message = scan.nextLine();
-//gagi
+//gagi mit gagi^2
       System.out.println ("You entered: \"" + message + "\"");
    }
 }
