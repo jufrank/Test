@@ -19,7 +19,7 @@ public class Echo
 
       System.out.println ("Enter a line of text:");
 
-      message22 = scan.nextLine();
+      message33 = scan.nextLine();
 
 //gagi mit gagi^2
 //gagi4
