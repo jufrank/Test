@@ -19,7 +19,11 @@ public class Echo
 
       System.out.println ("Enter a line of text:");
 
+<<<<<<< HEAD
       message33 = scan.nextLine();
+=======
+      message44 = scan.nextLine();
+>>>>>>> branch 'master' of https://github.com/jufrank/Test
 
 //gagi mit gagi^2
 //gagi4
