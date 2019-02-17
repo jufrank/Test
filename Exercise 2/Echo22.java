@@ -19,7 +19,10 @@ public class Echo
 
       System.out.println ("Enter a line of text:");
 
+
       message33 = scan.nextLine();
+
+      //wurst mit sauce
 
 //gagi mit gagi^2
 //gagi4
